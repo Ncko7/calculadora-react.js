@@ -13,7 +13,7 @@
 
 
 
-##  💻 Run Locally
+##  💻 Ejecutar localmente
 
 Sigue estos pasos para instalar y ejecutar la aplicación en tu máquina local:
 
@@ -42,9 +42,12 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu máquina local:
 ```
 
 ¡Y eso es todo! Tu calculadora estará corriendo en http://localhost:3000 🏃‍♂️💨
-## Screenshots
+## 🖼️ Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Agradecimientos ✨ 
+Un gran agradecimiento a [#freeCodeCamp](https://www.freecodecamp.org/espanol/learn) por inspirar este proyecto y proporcionarme las herramientas necesarias para aprender React y mucho más. ¡Gracias por hacer la educación accesible para todos! 😉
 
 
 ## 📝 License
