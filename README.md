@@ -44,7 +44,8 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu máquina local:
 ¡Y eso es todo! Tu calculadora estará corriendo en http://localhost:3000 🏃‍♂️💨
 ## 🖼️ Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Captura de pantalla 2024-08-10 005533](https://github.com/user-attachments/assets/52039818-f773-4eb5-8fcf-4d94340e4f64)
+
 
 ## Agradecimientos ✨ 
 Un gran agradecimiento a [#freeCodeCamp](https://www.freecodecamp.org/espanol/learn) por inspirar este proyecto y proporcionarme las herramientas necesarias para aprender React y mucho más. ¡Gracias por hacer la educación accesible para todos! 😉
