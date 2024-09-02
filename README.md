@@ -1,6 +1,11 @@
 
 # 🧮 React Calculator
-¡Bienvenido/a a React Calculator! 🎉 Esta es una calculadora simple pero poderosa, creada con React.js. Esta aplicación fue inspirada por el curso de React de [freeCodeCamp](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=19606s), y está diseñada para ayudarte a practicar y mejorar tus habilidades en React. 🚀
+¡Bienvenido/a a React Calculator! 🎉
+
+Puedes ver la aplicación en acción aquí: [React-Calculator](https://fcc-calculadora-react.netlify.app/)
+
+Esta es una calculadora simple pero poderosa, creada con React.js. 
+Esta aplicación fue inspirada por el curso de React de [freeCodeCamp](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=19606s), y está diseñada para ayudarte a practicar y mejorar tus habilidades en React. 🚀
 
 
 ## 🚀 Características
